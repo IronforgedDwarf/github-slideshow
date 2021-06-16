@@ -1,11 +1,6 @@
 ---
-
 layout: slide
-
 title: "Welcome to our second slide!"
-
 ---
-
-Your text
-
+A hero need not speak...
 Use the left arrow to go back!
